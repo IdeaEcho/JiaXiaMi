@@ -1,0 +1,3 @@
+rootProject.name = 'JiaXiaMi'
+
+include ':app'
