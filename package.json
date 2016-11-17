@@ -7,8 +7,16 @@
     "test": "jest"
   },
   "dependencies": {
-    "react": "15.3.2",
-    "react-native": "0.37.0"
+    "react": "~15.3.1",
+    "react-dom": "~15.3.1",
+    "react-redux": "^4.4.5",
+    "react-router": "^2.8.1",
+    "react-router-redux": "^4.0.6",
+    "redux-logger": "^2.7.0",
+    "redux-thunk": "^2.1.0",
+    "redux": "^3.6.0",
+    "redux-logger": "^2.7.4",
+    "redux-saga": "^0.12.1"
   },
   "jest": {
     "preset": "jest-react-native"
